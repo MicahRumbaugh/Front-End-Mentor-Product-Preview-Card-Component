@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://micahrumbaugh.github.io/Front-End-Mentor-Product-Preview-Card-Component/](https://micahrumbaugh.github.io/Front-End-Mentor-Product-Preview-Card-Component/)
+- Live Site URL: [TBD](TBD)
 
 ## My process
 
