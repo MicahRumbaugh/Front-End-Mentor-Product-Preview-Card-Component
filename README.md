@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://micahrumbaugh.github.io/Front-End-Mentor-Product-Preview-Card-Component/](https://micahrumbaugh.github.io/Front-End-Mentor-Product-Preview-Card-Component/)
+- Solution URL: [https://micahrumbaugh.github.io/Front-End-Mentor-Product-Preview-Card-Component/](https://micahrumbaugh.github.io/Front-End-Mentor-Product-Preview-Card-Component/)
 - Live Site URL: [TBD](TBD)
 
 ## My process
